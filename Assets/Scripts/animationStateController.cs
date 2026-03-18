@@ -1,10 +1,13 @@
 using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.InputSystem;
 
 public class animationStateController : MonoBehaviour
 {
     Animator animator;
     int isWalkingHash = Animator.StringToHash("isWalking");
-
+ 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
