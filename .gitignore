@@ -1,5 +1,5 @@
 Library/
 Logs/
 Temp/
-UserSettings/Layouts/*.dwlt
+**/*.dwlt
 
