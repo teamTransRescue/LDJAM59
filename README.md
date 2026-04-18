@@ -1,7 +1,4 @@
-# Starter Unity Game
-
-This is a game starter for teamTransRescue.
-**DO NOT MERGE ALL THE BRANCHES TO MAIN in the starter repo**
+# Team Trans Rescue Ludum Dare 59 Entry Game
 
 This is for Unity 6.3LTS
 
