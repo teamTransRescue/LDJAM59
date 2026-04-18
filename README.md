@@ -75,6 +75,10 @@ Doors are panel construction, or a plain rectangle the aspect of the opening. If
 Stairs should have a ramp collision object.
 
 
+## Exporting characters from blender
+
+Build character on mixamo skeleton
+
 
 
 
