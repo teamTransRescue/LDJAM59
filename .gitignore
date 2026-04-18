@@ -3,6 +3,10 @@ Logs/
 Temp/
 **/*.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**/*.blend1
+>>>>>>> morocco
 
 =======
 >>>>>>> charcontroller
