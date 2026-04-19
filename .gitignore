@@ -4,4 +4,5 @@ Temp/
 **/*.dwlt
 **/*.blend1
 *.csproj
-
+.vsconfig
+*.sln
