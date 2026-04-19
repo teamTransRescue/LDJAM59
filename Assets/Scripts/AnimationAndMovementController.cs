@@ -38,6 +38,8 @@ public class AnimationAndMovementController : MonoBehaviour
         goalSpeed = currentMovementInput.y;
         currentSpeed = goalSpeed;
 
+        Debug.Log("Current Speed: " + currentSpeed);
+
         animator.SetBool(isWalkingHash, Mathf.Abs(currentSpeed) > 0.01f);
     }
 
